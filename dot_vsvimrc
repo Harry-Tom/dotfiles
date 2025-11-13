@@ -1,4 +1,8 @@
+" Import .vimrc settings
+source ~/.vimrc
+
 " Use system clipboard for copy/paste
 set clipboard=unnamed
+
 " Use VS settings over vim settings
 set vsvim_useeditordefaults

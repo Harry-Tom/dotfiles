@@ -1,0 +1,2 @@
+" Do incremental searching.
+set incsearch
