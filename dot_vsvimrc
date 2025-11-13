@@ -1,4 +1,4 @@
 " Use system clipboard for copy/paste
 set clipboard=unnamed
 " Use VS settings over vim settings
-set vscim_useeditordefaults
+set vsvim_useeditordefaults
