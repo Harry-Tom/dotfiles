@@ -8,6 +8,8 @@ source ~/.vimrc
 
 set clipboard+=unnamed
 
+set showmode
+
 " --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
 
 " Load which-key extension - displays available keybindings in a popup

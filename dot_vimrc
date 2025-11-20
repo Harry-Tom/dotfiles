@@ -4,7 +4,6 @@ set incsearch
 set timeoutlen=5000
 nnoremap <SPACE> <Nop>
 let mapleader = "\<Space>"
-set showmode
 set showcmd
 
 "" -- Suggested options --
