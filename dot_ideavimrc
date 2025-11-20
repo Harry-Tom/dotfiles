@@ -34,3 +34,6 @@ map <leader>d <Action>(Debug)
 
 " Map <leader>b to toggle the breakpoint on the current line
 map <leader>b <Action>(ToggleLineBreakpoint)
+
+" Map <leader>m to toggle the bookmark on the current line
+map <leader>m <Action>(ToggleBookmark)

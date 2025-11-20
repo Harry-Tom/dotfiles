@@ -10,3 +10,6 @@ set vsvim_useeditordefaults
 " -- Map IDE actions to VsVim -- https://fuqua.io/blog/2017/08/level-up-your-vsvim/
 " Map <leader>b to toggle the breakpoint on the current line
 nnoremap <leader>b :vsc Debug.ToggleBreakpoint<cr>
+
+" Map <leader>m to toggle the bookmark on the current line
+nnoremap <leader>m :vsc Edit.ToggleBookmark<cr>
