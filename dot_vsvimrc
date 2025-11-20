@@ -6,3 +6,7 @@ set clipboard=unnamed
 
 " Use VS settings over vim settings
 set vsvim_useeditordefaults
+
+" -- Map IDE actions to VsVim -- https://fuqua.io/blog/2017/08/level-up-your-vsvim/
+" Map <leader>b to toggle the breakpoint on the current line
+nnoremap <leader>b :vsc Debug.ToggleBreakpoint<cr>
