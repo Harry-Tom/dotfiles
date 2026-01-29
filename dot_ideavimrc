@@ -32,6 +32,9 @@ map <leader>r <Action>(ReformatCode)
 " Map <leader>d to start debug
 map <leader>d <Action>(Debug)
 
+" Map <leader>e to execute
+map <leader>e <Action>(Console.Jdbc.Execute)
+
 " Map <leader>b to toggle the breakpoint on the current line
 map <leader>b <Action>(ToggleLineBreakpoint)
 
